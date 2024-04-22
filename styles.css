@@ -32,6 +32,36 @@ h2 {
     text-align: center;
 }
 
-.description {
+.recipeheading {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
+}
+
+.recipecontent {
+    display: block;
+    margin: 40px;
+}
+
+.description {
+    margin: 40px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredients {
+    margin: 40px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.steps {
+    margin: 40px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
